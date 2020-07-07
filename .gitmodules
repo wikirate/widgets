@@ -1,0 +1,3 @@
+[submodule "widgets/emissions"]
+	path = widgets/emissions
+	url = https://github.com/wikirate/wikirate-widget
