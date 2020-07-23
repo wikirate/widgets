@@ -5,8 +5,9 @@ set :branch, 'master'
 set :deploy_to, '/srv/wikirate_widgets'
 
 # set :rvm_custom_path, '/usr/local/rvm'
+# set :rvm_custom_path, '/usr/local/rvm'
 
-# set :scm, :middleman
+# set :scm, :middleman  vbnm
 
 # set :format, :pretty
 # set :log_level, :debug
