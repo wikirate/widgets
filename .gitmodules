@@ -1,3 +1,6 @@
 [submodule "widgets/emissions"]
 	path = widgets/emissions
 	url = https://github.com/wikirate/wikirate-widget
+[submodule "widgets/topic-graph"]
+	path = widgets/topic-graph
+	url = https://github.com/wikirate/topic-graph.git
