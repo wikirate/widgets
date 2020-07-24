@@ -3,7 +3,8 @@ namespace :deploy do
   after :published, :build do
     on roles(:app) do
       within "#{release_path}/widgets/topic-graph" do
-        execute :bundle, "exec middleman build --verbose"
+        # execute :bundle, "install"
+        # execute :bundle, "exec middleman build --verbose"
       end
     end
   end
