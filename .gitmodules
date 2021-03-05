@@ -5,5 +5,6 @@
 	path = widgets/topic-graph
 	url = https://github.com/wikirate/topic-graph.git
 [submodule "widgets/walkfree"]
+	branch = main
 	path = widgets/walkfree
 	url = https://github.com/wikirate/msa.git
