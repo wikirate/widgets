@@ -8,3 +8,6 @@
 	branch = main
 	path = widgets/walkfree
 	url = https://github.com/wikirate/msa.git
+[submodule "widgets/tea-suppliers-map"]
+	path = widgets/tea-suppliers-map
+	url = https://github.com/wikirate/tea-suppliers-map.git
