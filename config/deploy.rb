@@ -1,6 +1,6 @@
 set :application, 'wikirate-widgets'
 set :repo_url, 'https://github.com/wikirate/widgets.git'
-set :branch, 'master'
+set :branch, "main"
 
 set :deploy_to, '/srv/wikirate_widgets'
 
